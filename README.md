@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **django, fast-api, pandas, css, bootstrap**
 
-- 💬 Ask me about **Backend, Python, OOP, Telegram Bot**
+- 💬 Ask me about **Python, OOP, PostgreSQL, Sql, Telegram Bot**
 
 - 📫 How to reach me **khasanjonmamadaliyev.eng@gmail.com**
 
